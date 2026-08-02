@@ -1,16 +1,20 @@
-## Hi there 👋
+# 📌 2026 최신 주소모음 및 유용한 사이트 가이드
 
-<!--
-**jusoguide/jusoguide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+인터넷을 이용하면서 꼭 필요한 유용한 웹사이트와 즐겨찾기 정보를 한곳에 모아 정리한 가이드 페이지입니다. 자주 찾는 필수 사이트와 다양한 플랫폼 정보를 확인해 보세요.
 
-Here are some ideas to get you started:
+## 🔗 주요 카테고리 및 링크 모음
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **생활 및 유용 정보:** 일상생활에 꼭 필요한 공공 서비스 및 실생활 유틸리티 사이트 안내
+* **업무 및 생산성 도구:** 업무 효율을 높여주는 문서 작성 및 클라우드 서비스 모음
+
+---
+
+### 🚀 상세 주소 및 모음 바로가기
+
+다양한 분야의 실시간 업데이트되는 종합 링크와 상세한 주소 모음을 확인하시려면 아래 버튼을 클릭하세요.
+
+[![주소모음 바로가기](https://img.shields.io/badge/🚀_주소모음_사이트_바로가기-000000?style=for-the-badge&logo=googlesearch&logoColor=white)](https://jusoguide.org/)
+
+---
+
+> 본 페이지는 방문자분들께 유용한 웹사이트 정보를 제공하기 위해 운영되는 안내 가이드입니다.
