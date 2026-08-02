@@ -1,4 +1,4 @@
-# 📌 2026 최신 주소모음 및 링크모음 유용한 사이트 가이드
+# 2026 최신 주소모음 및 링크모음 유용한 사이트 가이드
 
 [![주소가이드](https://static.start.me/f_webp,q_auto/image-widget/kqgxv9dcvixefcjrs88v)](https://jusoguide.org/)
 
